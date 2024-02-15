@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="crossover"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-02-15 05:01:57 p.m."/>
+        <attribute name="created" value="Y3Jvc3NvdmVyO1ZhbmVzc2FzLU1hY0JvbzsyMDI0LTAyLTE1OzAzOjUzOjIxIHAubS47Mzg3MA=="/>
+        <attribute name="edited" value="Y3Jvc3NvdmVyO1ZhbmVzc2FzLU1hY0JvbzsyMDI0LTAyLTE1OzA1OjAxOjU3IHAubS47MTszOTgy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <assign variable="Nombre" expression="&quot;Wendy Sandate Terrazas&quot;"/>
+            <output expression="&quot;Tu nomnbre es&quot;" newline="True"/>
+            <output expression="Nombre" newline="True"/>
+            <declare name="Carrera" type="String" array="False" size=""/>
+            <assign variable="Carrera" expression="&quot;Sistemas Computacionales&quot;"/>
+            <output expression="&quot;Tu carrera es&quot;" newline="True"/>
+            <output expression="Carrera" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
